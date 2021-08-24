@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "@madelsberger/pausebuffer": "^1.0.0",
+    "dotenv": "^10.0.0",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.12",
+    "tmi.js": "^1.8.5"
+  },
+  "name": "jormhbot",
+  "description": "JormhBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OnlyTunes/JormhBot.git"
+  },
+  "author": "ONLYTUNES.UK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OnlyTunes/JormhBot/issues"
+  },
+  "homepage": "https://github.com/OnlyTunes/JormhBot#readme"
+}
